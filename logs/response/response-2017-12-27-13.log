@@ -1,0 +1,693 @@
+[2017-12-27T13:10:27.656] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:92
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:10:29.190] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41dbab5521b9d177862f77","user":"jserk","type":"genius","title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:10:51.131] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:13
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:10:53.616] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:10:53.623] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:6
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:11:19.783] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:11:19.787] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:7
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:13:02.027] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:10
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:13:02.034] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:11
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:13:35.214] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:13:35.217] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:9
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:13:45.338] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:13:45.347] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:7
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:14:01.118] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:9
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:14:01.122] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:8
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:14:13.865] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:14:13.872] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:14:27.313] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-27T13:23:02.839] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:17
+response body:
+[]
+*************** response log end *******************
+
+[2017-12-27T13:25:04.697] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:12
+response body:
+{"code":0,"data":[]}
+*************** response log end *******************
+
+[2017-12-27T13:25:17.797] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:14
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:26:01.058] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:37
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:26:01.066] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:26
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:27:02.393] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:27:02.396] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:27:05.688] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:14
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T13:27:06.912] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:30:00.712] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:8
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:30:00.720] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:31:28.706] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:31:28.721] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:32:43.416] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:32:43.464] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:33:48.950] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:33:48.952] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:34:36.112] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:34:36.114] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:35:14.627] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:35:14.630] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:35:36.195] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:35:36.199] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:36:26.467] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:36:26.475] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:36:52.564] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:36:52.566] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:36:57.341] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:36:57.342] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:47:14.508] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:8
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:47:14.510] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:48:14.183] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:48:14.187] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:48:43.533] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:21
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:48:43.549] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:48:59.769] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:48:59.772] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:51:05.894] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:51:05.895] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:55:40.445] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:1
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:55:42.419] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:1
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:55:44.378] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:2
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:58:01.829] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:45
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-27T13:58:01.853] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:57
+response body:
+{"code":0,"msgs":[]}
+*************** response log end *******************
+
+[2017-12-27T13:59:07.096] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/getmsglist
+request client ip:::1
+request query:{}
+response time:4
+response body:
+{"code":0,"msgs":[{"_id":"5a43367147887030aba3adc3","chatid":"5a40bd252281afbdf739da1e_5a41f6e65521b9d177862f78","from":"5a41f6e65521b9d177862f78","to":"5a40bd252281afbdf739da1e","__v":0,"creat_time":1514354276899,"content":"123","read":false},{"_id":"5a43368747887030aba3adc4","chatid":"5a40bd252281afbdf739da1e_5a41f6e65521b9d177862f78","from":"5a41f6e65521b9d177862f78","to":"5a40bd252281afbdf739da1e","__v":0,"creat_time":1514354276899,"content":"haha","read":false}]}
+*************** response log end *******************
+

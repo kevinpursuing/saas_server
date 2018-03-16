@@ -1,0 +1,64 @@
+[2017-12-17T17:36:54.864] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/users/getUser
+request client ip:::1
+request query:{}
+response time:3
+err name:userNotExist
+err message:用户不存在
+err stack:userNotExist: 用户不存在
+    at exports.getUser (/Users/hutianyi/Desktop/reactstudy/koa2server/app/controllers/user_controller.js:8:15)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:345:16
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:350:31)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:38:11)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+
+[2017-12-17T17:37:14.156] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/users/getUser?id=1
+request client ip:::1
+request query:{"id":"1"}
+response time:1
+err name:userNotExist
+err message:用户不存在
+err stack:userNotExist: 用户不存在
+    at exports.getUser (/Users/hutianyi/Desktop/reactstudy/koa2server/app/controllers/user_controller.js:8:15)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:345:16
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:350:31)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:38:11)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+

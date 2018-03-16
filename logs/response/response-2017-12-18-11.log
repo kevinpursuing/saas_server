@@ -1,0 +1,475 @@
+[2017-12-18T11:03:40.044] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kev","pwd":"123"}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T11:04:07.230] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:2
+response body:
+[{"_id":"5a3726dd4f71bcffc3d654c3","user":"kev","pwd":"312","type":"genius","__v":0},{"_id":"5a3728f74f71bcffc3d654c4","user":"kevin","pwd":"321","type":"genius","__v":0},{"_id":"5a3729004f71bcffc3d654c5","user":"123","pwd":"123","type":"boss","__v":0},{"_id":"5a3729384f71bcffc3d654c6","user":"hock","pwd":"123","type":"genius","__v":0},{"_id":"5a3729cb4f71bcffc3d654c7","user":"kei","pwd":"123","type":"genius","__v":0},{"_id":"5a3729e14f71bcffc3d654c8","user":"kkk","pwd":"123","type":"boss","__v":0},{"_id":"5a372b8807597d02ff592735","user":"qwe","pwd":"76d80224611fc919a5d54f0ff9fba446","type":"genius","__v":0},{"_id":"5a372ce202119603b7336918","user":"kev1","pwd":"a9b58e10ec022e4f7f5a4d31225ccb4d","type":"genius","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T11:04:15.332] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/deleteAll
+request client ip:::1
+request query:{}
+response time:5
+response body:
+{"n":8,"ok":1}
+*************** response log end *******************
+
+[2017-12-18T11:04:19.511] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:4
+response body:
+[]
+*************** response log end *******************
+
+[2017-12-18T11:06:41.264] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123","type":"genius"}
+response time:40
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T11:07:06.335] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin2","pwd":"321","type":"boss"}
+response time:8
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T11:07:09.984] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:7
+response body:
+[{"_id":"5a3730c10f424405f140abc1","user":"kerwin","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0},{"_id":"5a3730da0f424405f140abc2","user":"kerwin2","pwd":"66fefc086c4f7cce9844cb297fdde3b4","type":"boss","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T11:13:25.152] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kev","pwd":"123"}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T11:16:31.672] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin2","pwd":"123"}
+response time:18
+response body:
+{"code":1,"msg":"用户名或密码错误"}
+*************** response log end *******************
+
+[2017-12-18T11:16:37.063] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin2","pwd":"321"}
+response time:8
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T11:16:37.098] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/%3Canonymous%3E
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T11:20:20.512] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin2","pwd":"321"}
+response time:18
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730da0f424405f140abc2","user":"kerwin2","pwd":"66fefc086c4f7cce9844cb297fdde3b4","type":"boss","__v":0}}
+*************** response log end *******************
+
+[2017-12-18T11:21:54.200] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin2","pwd":"321"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730da0f424405f140abc2","user":"kerwin2","pwd":"66fefc086c4f7cce9844cb297fdde3b4","type":"boss","__v":0}}
+*************** response log end *******************
+
+[2017-12-18T11:22:17.722] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T11:22:23.386] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin1","pwd":"321"}
+response time:4
+response body:
+{"code":1,"msg":"用户名或密码错误"}
+*************** response log end *******************
+
+[2017-12-18T11:22:26.401] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"321"}
+response time:2
+response body:
+{"code":1,"msg":"用户名或密码错误"}
+*************** response log end *******************
+
+[2017-12-18T11:22:34.697] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"321"}
+response time:2
+response body:
+{"code":1,"msg":"用户名或密码错误"}
+*************** response log end *******************
+
+[2017-12-18T11:22:40.659] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0}}
+*************** response log end *******************
+
+[2017-12-18T11:23:35.787] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:27
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius","__v":0}}
+*************** response log end *******************
+
+[2017-12-18T11:31:30.858] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:21
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius","__v":0}}
+*************** response log end *******************
+
+[2017-12-18T11:39:19.771] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T11:39:21.732] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:27
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:39:23.784] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T11:39:26.450] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:41:08.831] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:17
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:42:14.960] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:42:52.865] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/robots.txt
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T11:47:40.577] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T11:48:49.980] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:24
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:49:06.165] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T11:49:55.429] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:8
+response body:
+[{"_id":"5a3730c10f424405f140abc1","user":"kerwin","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0},{"_id":"5a3730da0f424405f140abc2","user":"kerwin2","pwd":"66fefc086c4f7cce9844cb297fdde3b4","type":"boss","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T11:49:55.430] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/robots.txt
+request client ip:::1
+request query:{}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T11:50:43.878] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:25
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:50:48.047] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T11:51:15.399] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:27
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:51:17.333] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T11:55:42.257] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:24
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:55:43.967] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T11:55:58.155] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:26
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T11:56:04.889] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:11
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T11:58:21.507] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123"}
+response time:26
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+

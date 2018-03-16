@@ -1,0 +1,24 @@
+[2018-03-11T11:30:11.947] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::ffff:127.0.0.1
+request body
+{"phone":"123","pwd":"123"}
+response time:54
+response body:
+{"code":2,"msg":"账号已注册"}
+*************** response log end *******************
+
+[2018-03-11T11:30:16.515] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::ffff:127.0.0.1
+request body
+{"phone":"1233","pwd":"123"}
+response time:45
+response body:
+{"code":0,"msg":"success","data":{"_id":"5aa4a2c82ca7ce0edd00f2c0"}}
+*************** response log end *******************
+

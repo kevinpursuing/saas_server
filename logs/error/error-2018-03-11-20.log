@@ -1,0 +1,29 @@
+[2018-03-11T20:20:44.521] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/robots.txt
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+err name:TypeError
+err message:res.sendFile is not a function
+err stack:TypeError: res.sendFile is not a function
+    at app.use (/Users/hutianyi/Desktop/koa2server/app.js:66:14)
+    at dispatch (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/hutianyi/Desktop/koa2server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/koa2server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/koa2server/app.js:45:11)
+    at dispatch (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/koa2server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/koa2server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/koa2server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+

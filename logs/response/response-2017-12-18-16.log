@@ -1,0 +1,256 @@
+[2017-12-18T16:20:02.437] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3743b559794d118f8b37c9","user":"kkkkk","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T16:24:24.438] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kboss","pwd":"123456","type":"boss"}
+response time:22
+response body:
+{"code":0,"msg":"success","data":{"user":"kboss","type":"boss","_id":"5a377b3859794d118f8b37ca"}}
+*************** response log end *******************
+
+[2017-12-18T16:24:34.349] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:24:44.950] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kboss","pwd":"123456"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:31:05.249] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:31:33.212] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:31:51.914] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kboss","pwd":"123456"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:32:25.022] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:33:24.376] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:34:01.587] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:44:57.020] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:46:05.792] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:46:36.913] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:47:31.974] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:47:56.502] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:48:04.094] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:48:44.411] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:49:04.288] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:51:15.636] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:51:44.456] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:52:00.843] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:52:56.998] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+
+[2017-12-18T16:53:21.606] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a377b3859794d118f8b37ca","user":"kboss","type":"boss"}}
+*************** response log end *******************
+

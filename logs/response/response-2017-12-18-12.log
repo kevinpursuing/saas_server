@@ -1,0 +1,298 @@
+[2017-12-18T12:01:55.105] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:12
+response body:
+{"code":0}
+*************** response log end *******************
+
+[2017-12-18T12:03:12.536] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:10
+response body:
+{"code":0}
+*************** response log end *******************
+
+[2017-12-18T12:05:31.289] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:20
+response body:
+{"code":0,"msg":1}
+*************** response log end *******************
+
+[2017-12-18T12:05:51.108] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:37
+response body:
+{"code":0,"msg":1}
+*************** response log end *******************
+
+[2017-12-18T12:06:27.803] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:30
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:08:12.608] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:129
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:08:56.139] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:13:31.895] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:13:56.678] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:14:17.868] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:16:26.090] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:18:46.808] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:19:08.487] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:19:20.785] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:4
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:19:39.543] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:20:17.806] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:20:45.566] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:21:45.075] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:22:06.704] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:22:08.307] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:23:04.500] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:27
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:23:38.431] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:27:12.315] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:30
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3730c10f424405f140abc1","user":"kerwin","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:27:25.115] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-18T12:27:33.117] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kkkkk","pwd":"123","type":"genius"}
+response time:17
+response body:
+{"code":0,"msg":"success","data":{"user":"kkkkk","type":"genius","_id":"5a3743b559794d118f8b37c9"}}
+*************** response log end *******************
+
+[2017-12-18T12:27:42.615] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3743b559794d118f8b37c9","user":"kkkkk","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-18T12:28:27.593] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a3743b559794d118f8b37c9","user":"kkkkk","type":"genius"}}
+*************** response log end *******************
+

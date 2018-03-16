@@ -1,0 +1,354 @@
+[2017-12-25T18:07:40.337] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:10:18.876] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:10:30.553] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:11:34.818] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:12:21.181] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:13:17.559] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:13:31.444] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:18:24.991] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:19:17.410] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:19:55.991] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:20:55.229] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:24:18.470] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:25:20.977] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:27:54.125] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:29:10.617] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:32:09.471] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:33:19.375] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:33:41.817] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:6
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:35:09.913] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:35:19.146] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:35:23.194] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:46:24.059] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:47:18.929] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:47:47.785] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:48:28.345] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:48:50.437] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40bd252281afbdf739da1e","user":"kg","type":"genius","title":"前端","avatar":"pic2","desc":"QQWeb"}}
+*************** response log end *******************
+
+[2017-12-25T18:54:18.184] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-25T18:54:30.380] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kggg","pwd":"123","type":"genius"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"user":"kggg","type":"genius","_id":"5a40d8e62281afbdf739da1f"}}
+*************** response log end *******************
+
+[2017-12-25T18:54:35.767] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/update
+request client ip:::ffff:127.0.0.1
+request body
+{"title":"123","desc":"123","money":"","avatar":"pic5"}
+response time:3
+response body:
+{"code":0,"data":{"title":"123","desc":"123","money":"","avatar":"pic5","user":"kggg","type":"genius"}}
+*************** response log end *******************
+
+[2017-12-25T18:56:52.170] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","type":"genius","title":"123","desc":"123","money":"","avatar":"pic5"}}
+*************** response log end *******************
+
+[2017-12-25T18:57:14.810] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","type":"genius","title":"123","desc":"123","money":"","avatar":"pic5"}}
+*************** response log end *******************
+
+[2017-12-25T18:57:44.838] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","type":"genius","title":"123","desc":"123","money":"","avatar":"pic5"}}
+*************** response log end *******************
+

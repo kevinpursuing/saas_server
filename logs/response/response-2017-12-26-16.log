@@ -1,0 +1,267 @@
+[2017-12-26T16:18:44.507] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:23
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:18:44.528] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:6
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:30:10.804] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:10
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:30:10.809] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:10
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:30:46.969] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:30:46.972] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:31:06.494] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:31:06.497] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:31:14.408] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:31:14.410] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:31:36.344] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-26T16:35:20.468] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"boss","pwd":"123"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:35:20.539] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:35:22.102] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:35:23.942] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:35:25.363] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:6
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:35:26.958] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:36:29.340] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:36:47.872] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:37:53.624] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1,"msg":"cookies已过期，进入登录状态"}
+*************** response log end *******************
+
+[2017-12-26T16:37:58.012] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"boss","pwd":"123"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:37:58.080] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-26T16:40:08.224] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"boss","pwd":"123"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a41f6e65521b9d177862f78","user":"boss","type":"boss","title":"全栈开发","desc":"熟悉react\n熟悉koa开发\n熟悉后端数据库","company":"言至网络工作室","money":"10k-15k","avatar":"pic3"}}
+*************** response log end *******************
+
+[2017-12-26T16:40:08.285] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+

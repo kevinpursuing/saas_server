@@ -1,0 +1,87 @@
+[2017-12-28T15:59:42.712] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/index.html/login
+request client ip:::1
+request query:{}
+response time:3
+err name:TypeError
+err message:res.sendFile is not a function
+err stack:TypeError: res.sendFile is not a function
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:67:14)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:46:11)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+
+[2017-12-28T15:59:47.100] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/index.html/
+request client ip:::1
+request query:{}
+response time:0
+err name:TypeError
+err message:res.sendFile is not a function
+err stack:TypeError: res.sendFile is not a function
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:67:14)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:46:11)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+
+[2017-12-28T15:59:49.470] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/index.html/
+request client ip:::1
+request query:{}
+response time:1
+err name:TypeError
+err message:res.sendFile is not a function
+err stack:TypeError: res.sendFile is not a function
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:67:14)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/reactstudy/koa2server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/reactstudy/koa2server/app.js:46:11)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/reactstudy/koa2server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+

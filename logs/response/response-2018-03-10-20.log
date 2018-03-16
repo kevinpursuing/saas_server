@@ -1,0 +1,108 @@
+[2018-03-10T20:00:40.506] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:19
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:01:42.731] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:24
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:02:28.882] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:22
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:02:49.259] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:22
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:08:34.372] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:22
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:09:35.882] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:20
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:10:14.220] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:25
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:16:07.570] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:152
+response body:
+{"code":0,"msg":"成功"}
+*************** response log end *******************
+
+[2018-03-10T20:17:24.967] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/app/register
+request client ip:::1
+request body
+{"phone":"15877650331","pwd":"123456"}
+response time:32
+response body:
+{"code":1,"msg":"账号已注册"}
+*************** response log end *******************
+

@@ -1,0 +1,45 @@
+[2017-12-27T10:56:28.184] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::1
+request query:{"type":"genius"}
+response time:25
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T10:56:31.093] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::1
+request query:{"type":"genius"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+
+[2017-12-27T10:59:17.698] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/login
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"123","pwd":"123"}
+response time:11
+response body:
+{"code":0,"msg":"success","data":{"_id":"5a4216da69a459ffe27e7253","user":"123","type":"boss","title":"123","desc":"123","company":"123","money":"123","avatar":"pic2"}}
+*************** response log end *******************
+
+[2017-12-27T10:59:17.784] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list?type=genius
+request client ip:::ffff:127.0.0.1
+request query:{"type":"genius"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":[{"_id":"5a37af70f2e8472b52a6b36f","user":"kgenius","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","avatar":"pic2","desc":"123"},{"_id":"5a40bd252281afbdf739da1e","user":"kg","pwd":"8546a6f819303e121ce28b55e123bc97","type":"genius","__v":0,"title":"前端","avatar":"pic2","desc":"QQWeb"},{"_id":"5a40d8e62281afbdf739da1f","user":"kggg","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"123","desc":"123","money":"","avatar":"pic5"},{"_id":"5a41dbab5521b9d177862f77","user":"jserk","pwd":"bdc009b66b98f0abfe8fda8f53338e22","type":"genius","__v":0,"title":"前端开发","desc":"熟悉vue\n熟悉jq\n熟悉css3\n有php，mysql，vue全家桶开发经验","money":"","avatar":"pic3"}]}
+*************** response log end *******************
+

@@ -1,0 +1,370 @@
+[2017-12-18T10:04:33.828] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123456","type":"boss"}
+response time:1
+response body:
+{"code":1,"msg":"传入的参数必须都不为空"}
+*************** response log end *******************
+
+[2017-12-18T10:06:31.130] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123456","type":"boss"}
+response time:10
+response body:
+{"code":1,"msg":"传入的参数必须都不为空"}
+*************** response log end *******************
+
+[2017-12-18T10:07:03.405] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin","pwd":"123456","type":"boss"}
+response time:5
+response body:
+{"code":1,"msg":"传入的参数必须都不为空"}
+*************** response log end *******************
+
+[2017-12-18T10:07:22.260] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T10:07:30.596] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin1","pwd":"123","type":"boss"}
+response time:1
+response body:
+{"code":1,"msg":"传入的参数必须都不为空"}
+*************** response log end *******************
+
+[2017-12-18T10:07:47.911] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin1","pwd":"123","type":"boss"}
+response time:40
+response body:
+{"code":1,"msg":"用户名重复"}
+*************** response log end *******************
+
+[2017-12-18T10:07:52.054] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin3","pwd":"123","type":"boss"}
+response time:27
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:08:41.953] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kerwin3","pwd":"123","type":"boss"}
+response time:5
+response body:
+{"code":1,"msg":"用户名重复"}
+*************** response log end *******************
+
+[2017-12-18T10:09:33.391] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:6
+response body:
+[{"_id":"5a364e88399cd5e95f2adbf6","__v":0},{"_id":"5a364e8b399cd5e95f2adbf7","__v":0},{"_id":"5a364e9767f31ce97149524f","__v":0},{"_id":"5a364ec4a03e65e98bd010e6","__v":0},{"_id":"5a3651ff57fe9feb72704d45","user":"kerwin1","pwd":"123456","type":"boss","__v":0},{"_id":"5a3655cfc10082ed76d4dca8","user":"kerwin2","pwd":"123456123","type":"boss","__v":0},{"_id":"5a3722f84af0c8fd81ac3258","user":"kerwin3","pwd":"123","type":"boss","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T10:09:44.525] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T10:14:53.050] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/register
+request client ip:::1
+request query:{}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T10:15:52.667] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::1
+request query:{}
+response time:2
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T10:19:00.054] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::1
+request query:{}
+response time:3
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T10:19:10.152] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kev","pwd":"312","type":"genius"}
+response time:50
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:23:28.556] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/deleteAll
+request client ip:::1
+request query:{}
+response time:0
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T10:24:04.255] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/deleteAll
+request client ip:::1
+request query:{}
+response time:1
+response body:
+undefined
+*************** response log end *******************
+
+[2017-12-18T10:24:20.365] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/deleteAll
+request client ip:::1
+request query:{}
+response time:19
+response body:
+{"n":8,"ok":1}
+*************** response log end *******************
+
+[2017-12-18T10:24:29.478] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kev","pwd":"312","type":"genius"}
+response time:42
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:24:36.184] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:6
+response body:
+[{"_id":"5a3726dd4f71bcffc3d654c3","user":"kev","pwd":"312","type":"genius","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T10:33:27.638] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kevin","pwd":"321","type":"genius"}
+response time:7
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:33:36.473] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"123","pwd":"123","type":"boss"}
+response time:6
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:34:27.312] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"123","pwd":"123","type":"genius"}
+response time:2
+response body:
+{"code":1,"msg":"用户名重复"}
+*************** response log end *******************
+
+[2017-12-18T10:34:32.657] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"hock","pwd":"123","type":"genius"}
+response time:3
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:36:59.093] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kei","pwd":"123","type":"genius"}
+response time:4
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:37:10.609] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1}
+*************** response log end *******************
+
+[2017-12-18T10:37:21.621] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kkk","pwd":"123","type":"boss"}
+response time:5
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:44:24.227] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"qwe","pwd":"qwe","type":"genius"}
+response time:41
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:44:37.846] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:11
+response body:
+[{"_id":"5a3726dd4f71bcffc3d654c3","user":"kev","pwd":"312","type":"genius","__v":0},{"_id":"5a3728f74f71bcffc3d654c4","user":"kevin","pwd":"321","type":"genius","__v":0},{"_id":"5a3729004f71bcffc3d654c5","user":"123","pwd":"123","type":"boss","__v":0},{"_id":"5a3729384f71bcffc3d654c6","user":"hock","pwd":"123","type":"genius","__v":0},{"_id":"5a3729cb4f71bcffc3d654c7","user":"kei","pwd":"123","type":"genius","__v":0},{"_id":"5a3729e14f71bcffc3d654c8","user":"kkk","pwd":"123","type":"boss","__v":0},{"_id":"5a372b8807597d02ff592735","user":"qwe","pwd":"76d80224611fc919a5d54f0ff9fba446","type":"genius","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T10:50:07.313] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kev","pwd":"qwe","type":"genius"}
+response time:22
+response body:
+{"code":1,"msg":"用户名重复"}
+*************** response log end *******************
+
+[2017-12-18T10:50:10.126] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/user/register
+request client ip:::ffff:127.0.0.1
+request body
+{"user":"kev1","pwd":"qwe","type":"genius"}
+response time:19
+response body:
+{"code":0,"msg":"success"}
+*************** response log end *******************
+
+[2017-12-18T10:50:13.780] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/list
+request client ip:::1
+request query:{}
+response time:8
+response body:
+[{"_id":"5a3726dd4f71bcffc3d654c3","user":"kev","pwd":"312","type":"genius","__v":0},{"_id":"5a3728f74f71bcffc3d654c4","user":"kevin","pwd":"321","type":"genius","__v":0},{"_id":"5a3729004f71bcffc3d654c5","user":"123","pwd":"123","type":"boss","__v":0},{"_id":"5a3729384f71bcffc3d654c6","user":"hock","pwd":"123","type":"genius","__v":0},{"_id":"5a3729cb4f71bcffc3d654c7","user":"kei","pwd":"123","type":"genius","__v":0},{"_id":"5a3729e14f71bcffc3d654c8","user":"kkk","pwd":"123","type":"boss","__v":0},{"_id":"5a372b8807597d02ff592735","user":"qwe","pwd":"76d80224611fc919a5d54f0ff9fba446","type":"genius","__v":0},{"_id":"5a372ce202119603b7336918","user":"kev1","pwd":"a9b58e10ec022e4f7f5a4d31225ccb4d","type":"genius","__v":0}]
+*************** response log end *******************
+
+[2017-12-18T10:54:11.622] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/user/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:0
+response body:
+{"code":1}
+*************** response log end *******************
+
