@@ -48,7 +48,7 @@ exports.appInfo = async (ctx, next) => {
     if (!appid) {
         ctx.body = { code: 1, msg: 'cookies已过期，进入登录状态' }
     } else {
-        let res = await app.findOne({ _id: appid }, _filter)
+        let res = await App.findOne({ appId: appid }, _filter)
         if (!res) {
             ctx.body = { code: 1, msg: 'cookies错误，进入登录状态' }
         } else {
@@ -90,7 +90,7 @@ exports.registerApp = async (ctx, next) => {
                     phone: phone,
                     pwd: md5Pwd(pwd),
                 })
-                var ap = await aps.save()
+                var ap = aps.save()
                 console.log(ap)
                 const { app, _id } = ap
                 if (ap) {

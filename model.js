@@ -42,6 +42,10 @@ const models = {
     },
     // 用户表
     user: {
+        appId: {
+            type: String,
+            required: true
+        }, //店铺id
         userName: {
             type: String,
             required: true
@@ -66,6 +70,10 @@ const models = {
     },
     // 订单表
     order: {
+        appId: {
+            type: String,
+            required: true
+        }, //店铺id
         resId: {
             type: String,
             required: true
@@ -80,19 +88,29 @@ const models = {
             default: Date.now
         },   //用户购买时间
     },
-    // 图文资源表
-    text: {
-        title: {
+    // 资源表
+    res: {
+        appId: {
+            type: String,
+            required: true
+        }, //店铺id
+        id: {
+            type: String,
+            required: true
+        },
+        name: {
             type: String,
             required: true
         }, //标题
         intro: String,  //资源简介
-        contents: String,   //图文内容
+        textContent: String,   //图文内容
         price: Number,   //商品价格
         cover: String,  //商品封面
         isCopy: Boolean,   //商品内容是否允许复制
-        isAlone: Boolean,   //商品是否单卖
+        saleType: Number,   //商品是否单卖
         isShow: Boolean,   //是否上架
+        audioSrc: String,     //音频资源
+        videoSrc: String,     //视频资源
         type: Number,  //商品所属类型  1,图文 2,音乐  3,视频
         saleTime: Date, //商品上架时间
         updateTime: Date, //商品信息更新时间
@@ -100,50 +118,7 @@ const models = {
             type: Date,
             default: Date.now
         }   //商品创建时间
-    },
-    // 音乐资源表
-    audio: {
-        title: {
-            type: String,
-            required: true
-        }, //标题
-        intro: String,  //资源简介
-        uri: String,   //音乐链接
-        price: Number,   //商品价格
-        cover: String,  //商品封面链接
-        isCopy: Boolean,   //商品内容是否允许复制
-        isAlone: Boolean,   //商品是否单卖
-        isShow: Boolean,   //是否上架
-        type: Number,  //商品所属类型  1,图文 2,音乐  3,视频
-        saleTime: Date, //商品上架时间
-        updateTime: Date, //商品信息更新时间
-        createTime: {
-            type: Date,
-            default: Date.now
-        }   //商品创建时间
-    },
-    // 视频资源表
-    video: {
-        title: {
-            type: String,
-            required: true
-        }, //标题
-        intro: String,  //资源简介
-        uri: String,   //视频链接
-        price: Number,   //商品价格
-        cover: String,  //商品封面链接
-        isCopy: Boolean,   //商品内容是否允许复制
-        isAlone: Boolean,   //商品是否单卖
-        isShow: Boolean,   //是否上架
-        type: Number,  //商品所属类型  1,图文 2,音乐  3,视频
-        saleTime: Date, //商品上架时间
-        updateTime: Date, //商品信息更新时间
-        createTime: {
-            type: Date,
-            default: Date.now
-        }   //商品创建时间
-    },
-    // 
+    }
 }
 
 for (let m in models) {

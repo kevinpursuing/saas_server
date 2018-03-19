@@ -1,0 +1,131 @@
+[2018-03-18T20:10:44.669] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/robots.txt
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+err name:TypeError
+err message:res.sendFile is not a function
+err stack:TypeError: res.sendFile is not a function
+    at app.use (/Users/hutianyi/Desktop/saas_server/app.js:66:14)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/saas_server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/saas_server/app.js:45:11)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/saas_server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/saas_server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+
+[2018-03-18T20:24:16.390] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/cms/getResInfo?type=1&&id=t_RiNZMXtNFr
+request client ip:::ffff:127.0.0.1
+request query:{"type":"1","id":"t_RiNZMXtNFr"}
+response time:43
+err name:TypeError
+err message:data.saleTime.split is not a function
+err stack:TypeError: data.saleTime.split is not a function
+    at timeConvert (/Users/hutianyi/Desktop/saas_server/utils/utils.js:3:39)
+    at exports.getResInfo (/Users/hutianyi/Desktop/saas_server/app/controllers/cms_controller.js:89:5)
+    at <anonymous>
+*************** error log end ****************
+
+[2018-03-18T20:25:15.015] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/cms/getResInfo?type=1&&id=t_RiNZMXtNFr
+request client ip:::ffff:127.0.0.1
+request query:{"type":"1","id":"t_RiNZMXtNFr"}
+response time:73
+err name:TypeError
+err message:data.saleTime.split is not a function
+err stack:TypeError: data.saleTime.split is not a function
+    at timeConvert (/Users/hutianyi/Desktop/saas_server/utils/utils.js:3:39)
+    at exports.getResInfo (/Users/hutianyi/Desktop/saas_server/app/controllers/cms_controller.js:89:12)
+    at <anonymous>
+*************** error log end ****************
+
+[2018-03-18T20:28:45.883] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/cms/getResInfo?type=1&&id=t_RiNZMXtNFr
+request client ip:::ffff:127.0.0.1
+request query:{"type":"1","id":"t_RiNZMXtNFr"}
+response time:10
+err name:TypeError
+err message:data.saleTime.split is not a function
+err stack:TypeError: data.saleTime.split is not a function
+    at timeConvert (/Users/hutianyi/Desktop/saas_server/utils/utils.js:3:39)
+    at exports.getResInfo (/Users/hutianyi/Desktop/saas_server/app/controllers/cms_controller.js:89:12)
+    at <anonymous>
+*************** error log end ****************
+
+[2018-03-18T20:29:22.656] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/cms/getResInfo?type=1&&id=t_RiNZMXtNFr
+request client ip:::ffff:127.0.0.1
+request query:{"type":"1","id":"t_RiNZMXtNFr"}
+response time:10
+err name:TypeError
+err message:data.saleTime.split is not a function
+err stack:TypeError: data.saleTime.split is not a function
+    at exports.getResInfo (/Users/hutianyi/Desktop/saas_server/app/controllers/cms_controller.js:89:35)
+    at <anonymous>
+*************** error log end ****************
+
+[2018-03-18T20:30:50.993] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/cms/getResInfo?type=1&&id=t_RiNZMXtNFr
+request client ip:::ffff:127.0.0.1
+request query:{"type":"1","id":"t_RiNZMXtNFr"}
+response time:7
+err name:TypeError
+err message:data.saleTime.split is not a function
+err stack:TypeError: data.saleTime.split is not a function
+    at exports.getResInfo (/Users/hutianyi/Desktop/saas_server/app/controllers/cms_controller.js:89:35)
+    at <anonymous>
+*************** error log end ****************
+
+[2018-03-18T20:38:06.190] [ERROR] errorLogger - 
+*************** error log start ****************
+request method:GET
+request originalUrl:/robots.txt
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:2
+err name:TypeError
+err message:res.sendFile is not a function
+err stack:TypeError: res.sendFile is not a function
+    at app.use (/Users/hutianyi/Desktop/saas_server/app.js:66:14)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at /Users/hutianyi/Desktop/saas_server/middlewares/response_formatter.js:27:19
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/hutianyi/Desktop/saas_server/app.js:45:11)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/hutianyi/Desktop/saas_server/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/hutianyi/Desktop/saas_server/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/hutianyi/Desktop/saas_server/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ****************
+

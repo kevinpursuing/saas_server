@@ -1,0 +1,70 @@
+[2018-03-17T20:04:25.756] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/cms/createRes
+request client ip:::ffff:127.0.0.1
+request body
+{"type":1,"name":"123","intro":"123","cover":"","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"","price":"123","saleTime":"2018-05-24T10:30"}
+response time:6
+response body:
+{"code":0,"msg":"success","data":{}}
+*************** response log end *******************
+
+[2018-03-17T20:05:43.521] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/cms/createRes
+request client ip:::ffff:127.0.0.1
+request body
+{"type":1,"name":"123","intro":"123","cover":"","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"","price":"123","saleTime":"2018-05-24T10:30"}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{}}
+*************** response log end *******************
+
+[2018-03-17T20:06:04.309] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/cms/createRes
+request client ip:::ffff:127.0.0.1
+request body
+{"type":1,"name":"123","intro":"123","cover":"","textContent":"123","saleType":0,"price":"123","saleTime":"2018-05-24T10:30"}
+response time:51
+response body:
+undefined
+*************** response log end *******************
+
+[2018-03-17T20:06:48.662] [INFO] resLogger - 
+*************** response log start **************
+request method:POST
+request originalUrl:/cms/createRes
+request client ip:::ffff:127.0.0.1
+request body
+{"type":1,"name":"123","intro":"123","cover":"","textContent":"123","saleType":0,"price":"123","saleTime":"2018-05-24T10:30"}
+response time:31
+response body:
+{"code":0,"msg":"success","data":{"type":1,"name":"123","intro":"123","cover":"","textContent":"123","saleType":false,"price":123,"saleTime":"2018-05-24T02:30:00.000Z","id":"t_appWBRZTX6N2p","createTime":"2018-03-17T12:06:48.638Z","_id":"5aad04d85804c7b9b3a25183","__v":0}}
+*************** response log end *******************
+
+[2018-03-17T20:25:26.541] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/app/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:41
+response body:
+{"code":0,"msg":"success","data":{"updateTime":"2018-03-10T13:35:58.138Z","createTime":"2018-03-10T13:35:58.138Z","_id":"5aa3df3e18d129fbeef90974","appId":"appXAKRb6caQka5JY2r","phone":123}}
+*************** response log end *******************
+
+[2018-03-17T20:34:36.869] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/app/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:7
+response body:
+{"code":0,"msg":"success","data":{"updateTime":"2018-03-10T13:35:58.138Z","createTime":"2018-03-10T13:35:58.138Z","_id":"5aa3df3e18d129fbeef90974","appId":"appXAKRb6caQka5JY2r","phone":123}}
+*************** response log end *******************
+

@@ -1,0 +1,11 @@
+[2018-03-18T23:57:47.517] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/cms/getResList?type=1
+request client ip:::ffff:127.0.0.1
+request query:{"type":"1"}
+response time:13
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-17T13:18:05.239Z","_id":"5aad158db5ec4cc49cb4dc2f","appId":"appXAKRb6caQka5JY2r","type":1,"name":"这是图文","intro":"这是简介","cover":"","textContent":"哈哈啊","saleType":0,"price":1.1,"saleTime":"2018-05-25T02:30:00.000Z","id":"t_zNd78pPxjs","__v":0},{"createTime":"2018-03-17T13:18:45.438Z","_id":"5aad15b5b5ec4cc49cb4dc30","appId":"appXAKRb6caQka5JY2r","type":1,"name":"这是图文12312","intro":"这是简介222","cover":"","textContent":"哈哈啊2123123123","saleType":0,"price":1.12,"saleTime":"2018-05-25T02:30:00.000Z","id":"t_RiNZMXtNFr","__v":0},{"createTime":"2018-03-17T13:18:56.901Z","_id":"5aad15c0b5ec4cc49cb4dc31","appId":"appXAKRb6caQka5JY2r","type":1,"name":"3123这321图文12312","intro":"这是简介222","cover":"","textContent":"哈哈啊21231oo23123","saleType":0,"price":1.122,"saleTime":"2018-05-25T02:30:00.000Z","id":"t_3Nb5CtBEwX","__v":0},{"createTime":"2018-03-18T01:28:31.663Z","_id":"5aadc0bf3064eac5b7a921ae","appId":"appXAKRb6caQka5JY2r","type":1,"name":"222","intro":"123","cover":"","textContent":"222","saleType":1,"price":0.01,"saleTime":"2018-03-18T01:24:18.000Z","id":"t_aitGJbJjb8","__v":0},{"createTime":"2018-03-18T01:28:45.627Z","_id":"5aadc0cd3064eac5b7a921af","appId":"appXAKRb6caQka5JY2r","type":1,"name":"222","intro":"123","cover":"","textContent":"222","saleType":1,"price":0.01,"saleTime":"2018-03-18T13:24:18.000Z","id":"t_wxknfj7MDy","__v":0},{"createTime":"2018-03-18T06:52:07.670Z","_id":"5aae0c97fd7050ea7586232b","appId":"appXAKRb6caQka5JY2r","type":1,"name":"图文","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/timg.jpeg","textContent":"123","saleType":1,"price":0.01,"saleTime":"2018-03-18T06:51:41.000Z","id":"t_273G7EnfXp","__v":0},{"createTime":"2018-03-18T09:49:50.720Z","_id":"5aae363ef6571303db84e956","appId":"appXAKRb6caQka5JY2r","type":1,"name":"jserk","intro":"123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/timg+(3).jpeg","textContent":"123","saleType":1,"price":0,"saleTime":"2018-05-18T09:49:11.000Z","id":"t_47XQy8akK4","__v":0}]}
+*************** response log end *******************
+
