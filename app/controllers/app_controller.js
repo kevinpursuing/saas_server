@@ -133,17 +133,3 @@ exports.login = async function (ctx, next) {
 }
 
 
-// Boss信息完善
-exports.update = async function (ctx, next) {
-    const appid = ctx.cookies.get('uid')
-    if (!appid) {
-        ctx.body = { code: 1 }
-    } else {
-        const body = ctx.request.body
-        console.log(body)
-        var data = await app.findByIdAndUpdate(appid, body)
-        var res = { ...body, app: data.app, type: data.type }
-        ctx.body = { code: 0, data: res }
-    }
-}
-
