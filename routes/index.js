@@ -10,8 +10,8 @@ router.get('/', async (ctx, next) => {
   })
 })
 
-router.use('/app', app_router.routes(), app_router.allowedMethods())
-router.use('/cms', cms_router.routes(), cms_router.allowedMethods())
-router.use('/sts', sts_router.routes(), sts_router.allowedMethods())
-router.use('/client', client_router.routes(), client_router.allowedMethods())
+router.use('/api/app', app_router.routes(), app_router.allowedMethods())
+router.use('/api/cms', cms_router.routes(), cms_router.allowedMethods())
+router.use('/api/sts', sts_router.routes(), sts_router.allowedMethods())
+router.use('/api/client', client_router.routes(), client_router.allowedMethods())
 module.exports = router
