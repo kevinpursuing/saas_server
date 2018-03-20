@@ -1,0 +1,682 @@
+[2018-03-20T16:10:11.739] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:10:20.456] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:11:33.968] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:12:30.381] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:13:45.346] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:13:57.666] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:15:57.435] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:16:09.728] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:16:16.720] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:19:56.554] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:20:19.891] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:22:46.676] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:22:50.066] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:22:54.662] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"Tt3rhj7eYnMrddKE"}
+response time:6
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:23:07.737] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"Tt3rhj7eYnMrddKE"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:23:32.629] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"Tt3rhj7eYnMrddKE"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:24:05.679] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"Tt3rhj7eYnMrddKE"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:24:13.313] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:24:16.585] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:24:30.188] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:24:37.339] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:24:39.435] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:26:16.534] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:27:07.723] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:1
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:27:12.081] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:27:58.817] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:28:02.558] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:28:04.305] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:28:27.086] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:1
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:29:45.263] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:29:50.553] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:30:54.138] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:31:29.054] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:32:33.945] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"","id":"QGk83ydhy4pJxSs3"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":null}
+*************** response log end *******************
+
+[2018-03-20T16:33:17.158] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:15
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:33:20.007] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:33:24.323] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:34:26.296] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:34:29.391] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:34:31.013] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:34:32.934] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:34:33.988] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:34:38.141] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:35:26.504] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:1
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:36:50.396] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:37:29.306] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:38:38.184] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:38:40.126] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:38:51.170] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:39:26.955] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:39:32.226] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"Tt3rhj7eYnMrddKE"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:39:34.246] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:39:35.219] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:6
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:39:36.289] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:39:37.869] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=QGk83ydhy4pJxSs3
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"QGk83ydhy4pJxSs3"}
+response time:5
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:39:38.662] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:39:44.342] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"Tt3rhj7eYnMrddKE"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:40:12.292] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getResList?appId=appXAKRb6caQka5JY2r
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r"}
+response time:4
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0},{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG90.jpeg","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-18T03:26:59.000Z","__v":0},{"createTime":"2018-03-19T03:33:12.833Z","_id":"5aaf2f78cd9ec53f6c65c988","appId":"appXAKRb6caQka5JY2r","type":3,"id":"QGk83ydhy4pJxSs3","name":"这是一条视频","intro":"这是视频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG57.jpeg","textContent":"123","saleType":0,"audioSrc":"","videoSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_video/bannerVideo.mp4","price":0,"saleTime":"2018-03-18T19:32:45.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T16:40:14.834] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:40:40.306] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:40:53.497] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T16:41:02.568] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/client/getRes?appId=appXAKRb6caQka5JY2r&&id=t_Sw2Bb4rDki
+request client ip:::ffff:127.0.0.1
+request query:{"appId":"appXAKRb6caQka5JY2r","id":"t_Sw2Bb4rDki"}
+response time:3
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T02:30:51.427Z","_id":"5aaf20db3bd546350926cfbe","appId":"appXAKRb6caQka5JY2r","type":1,"id":"t_Sw2Bb4rDki","name":"123哈哈哈","intro":"123123","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG64.jpeg","textContent":"123123123123","saleType":1,"audioSrc":"","videoSrc":"","price":312,"saleTime":"2018-03-17T10:30:27.000Z","__v":0}}
+*************** response log end *******************
+

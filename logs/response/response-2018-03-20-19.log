@@ -1,0 +1,66 @@
+[2018-03-20T19:28:07.001] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/app/info
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:1
+response body:
+{"code":0,"msg":"success","data":{"updateTime":"2018-03-10T13:35:58.138Z","createTime":"2018-03-10T13:35:58.138Z","_id":"5aa3df3e18d129fbeef90974","appId":"appXAKRb6caQka5JY2r","phone":123}}
+*************** response log end *******************
+
+[2018-03-20T19:28:07.005] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/cms/getResList?type=2
+request client ip:::ffff:127.0.0.1
+request query:{"type":"2"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG45.png","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-17T19:26:59.000Z","__v":0}]}
+*************** response log end *******************
+
+[2018-03-20T19:28:09.664] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/cms/getResInfo?id=Tt3rhj7eYnMrddKE
+request client ip:::ffff:127.0.0.1
+request query:{"id":"Tt3rhj7eYnMrddKE"}
+response time:2
+response body:
+{"code":0,"msg":"success","data":{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG45.png","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-17T19:26:59.000Z","__v":0}}
+*************** response log end *******************
+
+[2018-03-20T19:28:14.559] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/sts
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:442
+response body:
+{"code":0,"msg":"success","data":{"AccessKeyId":"STS.HDksK4fh35wY6tbo6533vzdap","AccessKeySecret":"H73vkLHERkiFFV9e3nRnnMj9Ki6rD2oiKpBsEZs9PVJp","SecurityToken":"CAIS5wF1q6Ft5B2yfSjIqYfeOPGAi7cSgrWyNFLTizZgP7xalaHKkjz2IH1FfXdpB+8WsPszm2xX5/kdlqp6U4cdvOEqngc0vPpt6gqET9frma7ctM4p6vCMHWyUFGSIvqv7aPn4S9XwY+qkb0u++AZ43br9c0fJPTXnS+rr76RqddMKRAK1QCNbDdNNXGtYpdQdKGHaOITGUHeooBKJXRYy4Fci1Tklsf7mnJPD0HeE0g2mkN1yjp/qP52pY/NrOJpCSNqv1IR0DPGcgXcOskYVpPkp0PMYpmaY4cvwAUJc+RaW+FZfGjjI/WQagAETNgtHMWVr5MtyOGB7x9T1dtdpVdX1VnUu90K4pUQlIMr/pCFBxRE5IWscj2SJf+UqNJRAFHoBFv2XiCwbpvnZ/pSXP6m+fc2G7l8JYBHAy3ux3PCBeLwaZ7nLmmz15t8DELRVZ8Ur3rMDxVVDj8SnDdgBKhcHJOhZ/WuVGqwFxw==","Expiration":"2018-03-20T12:28:14Z"}}
+*************** response log end *******************
+
+[2018-03-20T19:28:23.332] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/sts
+request client ip:::ffff:127.0.0.1
+request query:{}
+response time:460
+response body:
+{"code":0,"msg":"success","data":{"AccessKeyId":"STS.BicZBqGVnP5bUMbSRECFbPzR9","AccessKeySecret":"Ajvygjna2pKBzt8DKCmXfSaDvfKFtvJWCNKb2phfDP1H","SecurityToken":"CAIS5wF1q6Ft5B2yfSjIo6rWEfjFqolP5/eJV2vTt1IQT8lOv7/52zz2IH1FfXdpB+8WsPszm2xX5/kdlqp6U4cd/60rngc0vPpt6gqET9frma7ctM4p6vCMHWyUFGSIvqv7aPn4S9XwY+qkb0u++AZ43br9c0fJPTXnS+rr76RqddMKRAK1QCNbDdNNXGtYpdQdKGHaOITGUHeooBKJXRYy4Fci1Tklsf7mnJPD0HeE0g2mkN1yjp/qP52pY/NrOJpCSNqv1IR0DPGcgXcOskYVpPkp0PMYpmaY4cvwAUJc+RaW+FZfGjjI/WQagAF176cv2JuVlfMgabNpGB13DhzwvGkXf5nhLyDh2W1s2f3b5+G6rX1S93nAxzQ2Wr1z+sUnxz3OkP1BvBn3/WTKt2ErAWqDcG6l9FE88PB8M0EjNiDs7SnRniS2A+bBqEXwk6lyltBQxhiq92+SRmwx41m8fVPBxXzc75wSF6SeXA==","Expiration":"2018-03-20T12:28:23Z"}}
+*************** response log end *******************
+
+[2018-03-20T19:28:26.551] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/cms/getResList?type=2
+request client ip:::ffff:127.0.0.1
+request query:{"type":"2"}
+response time:1
+response body:
+{"code":0,"msg":"success","data":[{"createTime":"2018-03-19T03:27:39.549Z","_id":"5aaf2e2bcd9ec53f6c65c987","appId":"appXAKRb6caQka5JY2r","type":2,"id":"Tt3rhj7eYnMrddKE","name":"这是音频哈哈","intro":"这是一条音频简介","cover":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_pic/WechatIMG45.png","textContent":"123","saleType":1,"audioSrc":"http://jserk.oss-cn-shenzhen.aliyuncs.com/saas_audio/C400003Afb7F2LwcmR.mp3","videoSrc":"","price":10,"saleTime":"2018-03-17T19:26:59.000Z","__v":0}]}
+*************** response log end *******************
+
