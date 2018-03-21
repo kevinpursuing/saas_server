@@ -1,0 +1,44 @@
+[2018-03-21T15:01:55.134] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/api/wechat/signature?signature=12
+request client ip:::1
+request query:{"signature":"12"}
+response time:3
+response body:
+"dismatch"
+*************** response log end *******************
+
+[2018-03-21T15:03:22.354] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/api/wechat/signature?signature=12&timestamp=123&nonce=123&echostr=32222
+request client ip:::1
+request query:{"signature":"12","timestamp":"123","nonce":"123","echostr":"32222"}
+response time:3
+response body:
+"dismatch"
+*************** response log end *******************
+
+[2018-03-21T15:03:42.273] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/api/wechat/signature?3742621447786e03293861cc2bf28e0221210c6dsignature=12&timestamp=123&nonce=123&echostr=32222
+request client ip:::1
+request query:{"3742621447786e03293861cc2bf28e0221210c6dsignature":"12","timestamp":"123","nonce":"123","echostr":"32222"}
+response time:0
+response body:
+"dismatch"
+*************** response log end *******************
+
+[2018-03-21T15:05:57.393] [INFO] resLogger - 
+*************** response log start **************
+request method:GET
+request originalUrl:/api/wechat/signature?signature=3742621447786e03293861cc2bf28e0221210c6d&timestamp=123&nonce=123&echostr=32222
+request client ip:::1
+request query:{"signature":"3742621447786e03293861cc2bf28e0221210c6d","timestamp":"123","nonce":"123","echostr":"32222"}
+response time:4
+response body:
+"32222"
+*************** response log end *******************
+
