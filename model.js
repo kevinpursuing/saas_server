@@ -46,26 +46,38 @@ const models = {
             type: String,
             required: true
         }, //店铺id
-        userName: {
+        uId: {  //用户id,这里取微信用户的openId
+            type: String,
+            required: true
+        },
+        nickName: {
             type: String,
             required: true
         }, //用户名
-        pwd: {
+        sex: {
+            type: Number
+        },
+        city: {
+            type: String
+        },
+        province: {
+            type: String
+        },
+        country: {
+            type: String
+        },
+        phone: {
+            type: Number
+        },  //用户手机号
+        avatar: {
             type: String,
             required: true
-        },  //用户密码（hash之后的）
-        phone: {
-            type: Number,
-            required: true
-        },  //用户手机号
-        avatar: String, //用户头像
+        }, //用户头像
         updateTime: {
-            type: Date,
-            default: Date.now
+            type: Date
         },  //用户信息修改时间
         createTime: {
-            type: Date,
-            default: Date.now
+            type: Date
         }   //用户注册时间
     },
     // 订单表

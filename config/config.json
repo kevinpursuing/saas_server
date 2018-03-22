@@ -1,3 +1,9 @@
 {
-    "token": "jserk"
+    "token": "jserk",
+    "appID": "wxfa245f1fe290be27",
+    "appScrect": "31cf7b6ca3ab2e95a9df8ddd623f4d0e",
+    "apiDomain": "https://api.weixin.qq.com/",
+    "apiURL": {
+        "accessTokenApi": "%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s"
+    }
 }

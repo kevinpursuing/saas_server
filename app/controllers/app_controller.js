@@ -79,7 +79,6 @@ exports.registerApp = async (ctx, next) => {
     } else {
 
         var app = await App.findOne({ phone: phone })
-        console.log(app)
         if (app) {
             ctx.body = { code: 2, msg: '账号已注册' }
         } else {
